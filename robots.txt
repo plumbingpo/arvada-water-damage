@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arvadarestoration.com/sitemap.xml
